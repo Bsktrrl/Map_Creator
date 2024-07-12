@@ -1,4 +1,4 @@
-<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate1.gif" width="20%"/><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate2.gif" width="20%"/><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate3.gif" width="20%"/><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate4.gif" width="20%"/><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate5.gif" width="20%"/>
+<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate1.gif" width="20%"/> <img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate2.gif" width="20%"/> <img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate3.gif" width="20%"/> <img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate4.gif" width="20%"/> <img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/MapGenerate5.gif" width="20%"/>
 <br>
 <br>
 
