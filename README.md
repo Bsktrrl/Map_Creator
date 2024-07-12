@@ -9,4 +9,5 @@ Due to little knowledge, I tried to make a 2D pixel map generator, making rules 
 <br>
 The image and all colors in it can be changed to fit the deisred outcome.
 <br>
+<br>
 <img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/Selector.jpg" width="40%"/>
