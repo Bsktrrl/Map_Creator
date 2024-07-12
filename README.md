@@ -3,5 +3,9 @@
 <br>
 
 ## Project Description
-During my first semester, I looked into procedural generation and were fascinated of how it usaly was set up.
-Due to little knowledge, I tried to make a 2D pixel map generator, making rules for water, and, beach and trees to simulate a procedurally generated world.
+During my first semester, I looked into procedural generation and were fascinated of how it was set up.
+Due to little knowledge, I tried to make a 2D pixel map generator, making rules for water, sand, beach and trees to simulate a procedurally generated world.
+<br>
+<br>
+The image and all colors in it can be changed to fit the deisred outcome.
+<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/MapCreator/Selector.jpg" width="40%"/>
