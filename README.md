@@ -4,7 +4,7 @@
 
 ## Project Description
 During my first semester, I looked into procedural generation and were fascinated of how it was set up.
-Due to little knowledge, I tried to make a 2D pixel map generator, making rules for water, sand, beach and trees to simulate a procedurally generated world.
+Due to little knowledge, I tried to make a 2D pixel map generator for the "Visual Studio Terminal", making rules for water, sand, beach and trees to simulate a procedurally generated world.
 <br>
 <br>
 The image and all colors in it can be changed to fit the deisred outcome.
